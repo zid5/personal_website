@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="font-mono">
       <div className="flex gap-2 justify-around bg-neutral-800 p-5 shadow-lg text-neutral-50 ">
-        <div><h1>SIDHARTH RAJ</h1></div>
+        <div><h1>SIDHARTH RAJ !!!!</h1></div>
         <div className="flex gap-10 ">
           <ul>HOME</ul>
           <ul>ABOUT</ul>
